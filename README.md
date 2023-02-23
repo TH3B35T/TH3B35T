@@ -4,7 +4,7 @@ Hi 👋 My name is YUSUF MEHMET
 Front-end web developer (Vue.js)
 --------------------------------
 
-I have 2+ years of experience in web development and more than 4 years of help desk and technical support experience. I also worked on freelance projects in my free time since I was at the university. I am looking for a front-end role mainly using javascript. I am open to learning new technologies and trying new things. I gained knowledge by working on multiple freelancing projects. I also used to work while I was studying at the university. I am a fast learner and I am in love with new challenges. I am also good at troubleshooting and setting up the infrastructure.
+I have 3+ years of experience in web development and around 4 years of help desk and technical support experience. I also worked on freelance projects in my free time since I was at the university. I am looking for a front-end role mainly using javascript. I am open to learning new technologies and trying new things. I gained knowledge by working on multiple freelancing projects. I also used to work while I was studying at the university. I am a fast learner and I am in love with new challenges. I am also good at troubleshooting and setting up the infrastructure.
 
 * 🌍  I'm based in Istanbul/Turkey
 * ✉️  You can contact me at [yossefzied@gmail.com](mailto:yossefzied@gmail.com)
